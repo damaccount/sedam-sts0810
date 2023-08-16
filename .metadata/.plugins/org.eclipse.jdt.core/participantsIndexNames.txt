@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Mtest\workSpring\my\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3688765777.index
+\sts0810\src\main\java
+C:\Mtest\workSpring\my\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3791483890.index
+\sts0810\src\main\java
+C:\Mtest\workSpring\my\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2649891071.index
+\sts0810\src\main\java
+C:\Mtest\workSpring\my\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2771114877.index
+\sts0810\src\main\java

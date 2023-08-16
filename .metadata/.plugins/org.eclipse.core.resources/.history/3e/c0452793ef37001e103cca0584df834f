@@ -1,0 +1,12 @@
+package net.hb.crud;
+
+import java.util.List;
+
+public class BoardDAO {
+
+	@Override
+	public void board Delete(int data) {
+		// TODO Auto-generated method stub
+		return void);
+	}
+}
